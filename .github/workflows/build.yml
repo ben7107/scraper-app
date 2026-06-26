@@ -1,4 +1,4 @@
- name: Build ScraperApp EXE
+name: Build ScraperApp EXE
 
 on:
   push:
