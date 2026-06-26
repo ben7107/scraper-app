@@ -1,5 +1,5 @@
-tkinter
 requests
 beautifulsoup4
 openpyxl
+
 
